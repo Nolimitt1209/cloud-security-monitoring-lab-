@@ -35,29 +35,19 @@ The audit log records the creation of a Google Cloud project. Project creation i
 Security relevance:
 Monitoring project creation can help security teams identify unauthorized or unexpected changes to the cloud environment.
 
-Evidence:
-01-project-creation-audit-log.jpg
+Evidence
+
+Screenshots documenting the investigations are included below.
+
+1. Project Creation Audit Log
 
 
 
-2. Service/API Enablement
-
-Event: ServiceUsage.EnableService
-
-Analysis:
-The audit log records the enabling of a Google Cloud service/API. Enabling additional services can expand the capabilities available within a project and may increase the project's attack surface.
-
-Security relevance:
-Security teams can monitor service enablement to identify unexpected changes and verify that newly enabled services are authorized and necessary.
-
-Evidence:
-02-service-enabled-audit-log.jpg
+2. Service/API Enablement Audit Log
 
 
 
-3. Service Account Creation
-
-Event: google.iam.admin.v1.CreateServiceAccount
+3. Service Account Creation Audit Log
 
 Analysis:
 A test service account was created to generate and investigate an IAM-related audit event.
