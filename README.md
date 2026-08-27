@@ -39,7 +39,7 @@ Monitoring project creation can help security teams identify unauthorized or une
 
 
 
-![Project Creation Audit Log](Screenshots/01-project-creation-audit-log.jpg)
+!(Screenshots/01-project-creation-audit-log.jpg)
 
 
 
@@ -47,7 +47,7 @@ Monitoring project creation can help security teams identify unauthorized or une
 
 
 
-![Service API Enablement Audit Log](Screenshots/02-service-enabled-audit-log.jpg)
+!(Screenshots/02-service-enabled-audit-log.jpg)
 
 
 
@@ -55,7 +55,7 @@ Monitoring project creation can help security teams identify unauthorized or une
 
 
 
-![Service Account Creation Audit Log](Screenshots/03-service-account-creation-audit-log.jpg)
+!(Screenshots/03-service-account-creation-audit-log.jpg)
 
 
 
