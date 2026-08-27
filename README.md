@@ -1,3 +1,9 @@
+## Cloud Security Monitoring Lab
+**Project Overview:**
+A hands-on Google Cloud Security lab focused on monitoring audit logs and detecting unauthorized activities.
+
+
+
 Cloud Security Monitoring & Detection Lab
 
 Overview
