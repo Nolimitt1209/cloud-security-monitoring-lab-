@@ -35,19 +35,29 @@ The audit log records the creation of a Google Cloud project. Project creation i
 Security relevance:
 Monitoring project creation can help security teams identify unauthorized or unexpected changes to the cloud environment.
 
-Evidence
-
-Screenshots documenting the investigations are included below.
-
-1. Project Creation Audit Log
+### 1. Project Creation Audit Log
 
 
 
-2. Service/API Enablement Audit Log
+![Project Creation Audit Log](Screenshots/01-project-creation-audit-log.jpg)
 
 
 
-3. Service Account Creation Audit Log
+### 2. Service/API Enablement Audit Log
+
+
+
+![Service API Enablement Audit Log](Screenshots/02-service-enabled-audit-log.jpg)
+
+
+
+### 3. Service Account Creation Audit Log
+
+
+
+![Service Account Creation Audit Log](Screenshots/03-service-account-creation-audit-log.jpg)
+
+
 
 Analysis:
 A test service account was created to generate and investigate an IAM-related audit event.
